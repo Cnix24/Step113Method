@@ -1,0 +1,10 @@
+C:\Users\cback\source\repos\Step113Method\bin\Debug\netcoreapp2.1\Step113Method.deps.json
+C:\Users\cback\source\repos\Step113Method\bin\Debug\netcoreapp2.1\Step113Method.runtimeconfig.json
+C:\Users\cback\source\repos\Step113Method\bin\Debug\netcoreapp2.1\Step113Method.runtimeconfig.dev.json
+C:\Users\cback\source\repos\Step113Method\bin\Debug\netcoreapp2.1\Step113Method.dll
+C:\Users\cback\source\repos\Step113Method\bin\Debug\netcoreapp2.1\Step113Method.pdb
+C:\Users\cback\source\repos\Step113Method\obj\Debug\netcoreapp2.1\Step113Method.csproj.CoreCompileInputs.cache
+C:\Users\cback\source\repos\Step113Method\obj\Debug\netcoreapp2.1\Step113Method.AssemblyInfoInputs.cache
+C:\Users\cback\source\repos\Step113Method\obj\Debug\netcoreapp2.1\Step113Method.AssemblyInfo.cs
+C:\Users\cback\source\repos\Step113Method\obj\Debug\netcoreapp2.1\Step113Method.dll
+C:\Users\cback\source\repos\Step113Method\obj\Debug\netcoreapp2.1\Step113Method.pdb
